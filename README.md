@@ -8,5 +8,3 @@
 - ⌨️ Developer
 - 👾 Ethical Hacker
 ```
-
-![oppsec's github stats](https://github-readme-stats.vercel.app/api?username=oppsec&show_icons=true&theme=dark)
