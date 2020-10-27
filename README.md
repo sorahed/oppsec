@@ -9,7 +9,9 @@
 - 👾 Ethical Hacker
 ```
 
-`Learning:`<br><br>
+`Studying:`<br>
 ![Python](https://img.shields.io/badge/python-black?&style=for-the-badge&logo=python&logoColor=python)
 ![JavaScript](https://img.shields.io/badge/javascript-black?&style=for-the-badge&logo=javascript&logoColor=yellow)
-![Java](https://img.shields.io/badge/java-black?&style=for-the-badge&logo=java&logoColor=java)
+<br><br>
+`Interest:`<br>
+![Rust](https://img.shields.io/badge/rust-black?&style=for-the-badge&logo=rust&logoColor=rust)
