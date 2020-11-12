@@ -12,7 +12,3 @@
 `Studying:`<br>
 ![Python](https://img.shields.io/badge/python-black?&style=for-the-badge&logo=python&logoColor=python)
 ![JavaScript](https://img.shields.io/badge/javascript-white?&style=for-the-badge&logo=javascript&logoColor=yellow)
-<br><br>
-`Interest:`<br>
-![Rust](https://img.shields.io/badge/rust-black?&style=for-the-badge&logo=rust&logoColor=rust)
-![Go](https://img.shields.io/badge/go-white?&style=for-the-badge&logo=go&logoColor=go)
