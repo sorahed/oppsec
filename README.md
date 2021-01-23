@@ -1,7 +1,7 @@
 ![profile](https://i.imgur.com/jO6NmI9.jpg)<br>
 
 ```
-🎈 Hello, my name is Daniel.
+🎈 Hello, welcome to my profile.
 
 - 🏴󠁩󠁮󠁢󠁲󠁿 Located in Brazil
 - ✏️ UX/UI Designer
