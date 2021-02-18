@@ -1,8 +1,1 @@
-```python
-chmod +x connect.sh
-
-./connect.sh localhost@root
-- connection lost... priting banner...
-
-- oppsec@fbi - welcome to my profile
-```
+<img src=https://i.imgur.com/csxRrPV.png width=500 height=300>
