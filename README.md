@@ -1,3 +1,3 @@
 <div>
-  <img src="https://i.ibb.co/XYrRpys/README-Banner.jpg">
+  <img src="https://i.ibb.co/GMyj7gT/README-Banner.jpg">
 </div>
